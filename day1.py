@@ -35,4 +35,4 @@ if __name__ == '__main__':
         print('Fuel required if not considering fuel required for fuel (Part 1)...')
         print(total_fuel_required(inputs))
         print('Fuel required if considering fuel required for fuel (Part 2)...')
-        print (total_fuel_required_part2(inputs))
+        print(total_fuel_required_part2(inputs))
